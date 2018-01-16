@@ -21,7 +21,7 @@ function main() {
         var lotnum = ask_question("What is your lot number? ");
         var bednum = ask_question("How many bedrooms? ");
         var bathnum = ask_question("How many bathroooms? ");
-        var carnum =   ask_question("How many cars in the garage? ");
+        var carnum = ask_question("How many cars in the garage? ");
     }
     catch(err) {
         console.log(err);
