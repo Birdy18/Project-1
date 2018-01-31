@@ -3,7 +3,7 @@
     Class: CIS 104
     Version: 1.0
     Purpose: To find the total cost of the house
-    
+
  */
 
 const BASE = 50000;
